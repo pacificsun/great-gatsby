@@ -8,7 +8,7 @@ const indexPage = () => {
       <h1>Hello</h1>
       <h2>I'm Suraj, a full-stack developer Living in beautiful Kathmandu</h2>
       <p>
-        Need a developer<Link to="/contact">Contact me</Link>
+        Need a developer? <Link to="/contact">Contact me</Link>
       </p>
     </Layout>
   )
