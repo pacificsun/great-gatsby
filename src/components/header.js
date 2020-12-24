@@ -11,7 +11,7 @@ const Header = () => {
         }
       }
     }
-  `)
+  `) // taged template literal
 
   return (
     <header className={HeaderStyles.header}>
